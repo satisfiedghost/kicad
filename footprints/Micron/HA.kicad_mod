@@ -1,11 +1,11 @@
-(module HA (layer F.Cu) (tedit 56FB99EA)
+(module HA (layer F.Cu) (tedit 56FBA737)
   (descr "Micron HA package")
   (tags "Micron HA package")
   (attr smd)
   (fp_text reference REF** (at -2.8 -8.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MT41K256M16HA (at 0 3.4 90) (layer F.Fab) hide
+  (fp_text value HA (at 0 3.4 90) (layer F.Fab) hide
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )
   (fp_line (start -3.8 0) (end 3.8 0) (layer Eco1.User) (width 0.05))
