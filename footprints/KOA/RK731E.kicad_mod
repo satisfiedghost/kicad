@@ -1,12 +1,12 @@
-(module RK73H1E (layer F.Cu) (tedit 56EE70E4)
-  (descr "Resistor 0402 KOA RK73H1E")
-  (tags "RK73H1E 0402")
+(module RK731E (layer F.Cu) (tedit 570266BA)
+  (descr "Resistor 0402 KOA RK731E")
+  (tags "RK731E 0402")
   (solder_mask_margin 0.05)
   (attr smd)
   (fp_text reference REF** (at 0 -0.8) (layer F.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
-  (fp_text value RK73H1E (at 0 0) (layer F.Fab) hide
+  (fp_text value RK731E (at 0 0) (layer F.Fab) hide
     (effects (font (size 0.25 0.25) (thickness 0.05)))
   )
   (fp_text user %R (at 0 -0.8) (layer F.Fab)
