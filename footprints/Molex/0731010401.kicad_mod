@@ -1,4 +1,4 @@
-(module 0731010401 (layer F.Cu) (tedit 56ED22AE)
+(module 0731010401 (layer F.Cu) (tedit 56ED3BB2)
   (descr "BNC 75 Ohms")
   (tags "BNC 75 Ohms")
   (fp_text reference REF** (at -8 -0.08 90) (layer F.SilkS)
@@ -71,5 +71,6 @@
   (pad 3 thru_hole circle (at 0 -5.08) (size 2.68 2.68) (drill 2.1) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 0 5.08) (size 2.68 2.68) (drill 2.1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -5.08 -2.54) (size 1.2 1.2) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
-  (pad 1 thru_hole circle (at -5.08 0) (size 1.2 1.2) (drill 0.95) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at -5.08 0) (size 1.2 1.2) (drill 0.95) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.3))
 )

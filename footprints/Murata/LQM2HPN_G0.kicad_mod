@@ -1,4 +1,4 @@
-(module LQM2HPN_G0 (layer F.Cu) (tedit 56EACE8A)
+(module LQM2HPN_G0 (layer F.Cu) (tedit 570A3528)
   (descr "Inductor 1008 Murata LQM2HPN_G0 series")
   (tags "Murata LQM2HPN_G0")
   (solder_mask_margin 0.05)

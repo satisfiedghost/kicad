@@ -1,7 +1,7 @@
 (module 32QFN-3304-5x5B (layer F.Cu) (tedit 56EA8303)
   (descr "QFN32-EP Microchip")
   (tags QFN32-EP)
-  (solder_mask_margin 0.1)
+  (solder_mask_margin 0.05)
   (attr smd)
   (fp_text reference REF** (at 0 -3.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
