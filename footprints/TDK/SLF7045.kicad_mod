@@ -1,4 +1,4 @@
-(module SLF7045 (layer F.Cu) (tedit 56EA750A)
+(module SLF7045 (layer F.Cu) (tedit 56ED3148)
   (descr "TDK SLF0745-XXX INDUCTOR")
   (tags "TDK SLF0745")
   (attr smd)
