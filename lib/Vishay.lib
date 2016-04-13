@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# BYS10-25-E3
+#
+DEF BYS10-25-E3 D 0 40 N N 1 F N
+F0 "D" -200 50 60 H V C CNN
+F1 "BYS10-25-E3" 430 30 39 H V C CNN
+F2 "Diodes:DO-214AC" -300 -50 60 H I C CNN
+F3 "" -200 50 60 H V C CNN
+F4 "25V 1.5A" -100 150 60 H V C CNN "Rating"
+DRAW
+P 3 0 0 0  20 -30  20 -50  50 -50 N
+P 3 0 0 0  50 50  80 50  80 30 N
+P 2 0 1 0  -100 0  -50 0 N
+P 2 0 1 0  50 0  100 0 N
+P 2 0 1 0  50 50  50 -50 N
+P 5 0 1 0  -50 0  -50 50  50 0  -50 -50  -50 0 N
+X C 1 100 0 0 L 50 50 1 1 P
+X A 2 -100 0 0 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
