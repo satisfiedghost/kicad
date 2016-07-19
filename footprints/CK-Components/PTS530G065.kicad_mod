@@ -1,4 +1,4 @@
-(module PTS530G065 (layer F.Cu) (tedit 56D57CE5)
+(module PTS530G065 (layer F.Cu) (tedit 5772179E)
   (descr "CK-Components PTS530G065 Tactile Switch")
   (tags "CK-Components PTS530G065")
   (solder_mask_margin 0.1)

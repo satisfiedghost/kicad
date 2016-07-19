@@ -3,6 +3,7 @@
   (tags "JAE FF0881SA1")
   (solder_mask_margin 0.05)
   (solder_paste_margin -0.01)
+  (attr smd)
   (fp_text reference REF** (at 0.3 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
